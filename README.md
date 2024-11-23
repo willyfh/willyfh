@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=willyfh&color=blue) <sup>(Since Feb 5, 2024)</sup>
 
 
-- Work account: [@willy-lunit](https://github.com/willy-lunit)
+- Work account: [@willy-lunit](https://github.com/willy-lunit) (used for work-related projects at [Lunit](https://www.lunit.io/en))
 - I am an AI Research Engineer with primary interests in **Computer Vision**, **Multimodal Learning**, **Machine Learning**, and **Cognitive Robotics**.
 - Visit my portfolio website ([willyfh.github.io](https://willyfh.github.io/)) for more information and to get in touch.
 

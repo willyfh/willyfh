@@ -1,6 +1,6 @@
 ## Hi 👋 I am Willy!
 
-![](https://komarev.com/ghpvc/?username=willyfh&color=blue) <sup>(Since Feb 5, 2024)</sup>
+![](https://komarev.com/ghpvc/?username=willyfh&color=orange) <sup>(Since Feb 5, 2024)</sup>
 
 
 - Work account: [@willy-lunit](https://github.com/willy-lunit) (used for work-related projects at [Lunit](https://www.lunit.io/en))
